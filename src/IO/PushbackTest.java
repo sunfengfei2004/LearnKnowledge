@@ -1,3 +1,4 @@
+/*nihao*/
 package IO;
 
 import java.io.FileReader;
